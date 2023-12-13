@@ -8,5 +8,7 @@ Simple Notes App with NoteGroups feature.
 + React Stack Navigation 
 
 >Tested only for andorid.
+
 >Icons are taken from FlatIcon.
+
 >EntryPoint : HomeView.tsx > NotesListView.tsx > NotesView.tsx
